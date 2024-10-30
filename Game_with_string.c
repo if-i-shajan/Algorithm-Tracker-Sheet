@@ -36,5 +36,4 @@ int main()
     return 0;
 }
 
-
 // If removalCount is odd, the first player wins, otherwise the second player wins.
