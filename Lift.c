@@ -12,6 +12,7 @@ int main()
         int time = abs(f - lf) * 4 + (3 + 5 + 3) + 3 + 5 + (f * 4);
         printf("Case %d: %d\n", n, time);
     }
+    
     return 0;
 }
 
