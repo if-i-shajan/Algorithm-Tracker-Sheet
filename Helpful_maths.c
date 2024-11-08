@@ -19,6 +19,7 @@ int main()
             count[3]++;
         }
     }
+    
     // Non-decreasing order
     int first = 1;
 
